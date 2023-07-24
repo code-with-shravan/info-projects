@@ -4,7 +4,7 @@
 }
 
 header{
-    background-image:url(image/esg.jpg);
+    background-image:url('../image/esg.jpg');
     height:700px;
     width:100%;
     background-size:cover;
